@@ -1,6 +1,6 @@
 # Advance Core Python Programming
 
-A Simple Guide for the Not-so-Simple JavaScript Concepts, Libraries, Tools, and Frameworks 
+Begin your Journey to Master the World of Python
 
 This is the Code repository for [Advance Core Python Programming](https://in.bpbonline.com/products/advance-core-python-programming?_pos=1&_sid=7eb9deb58&_ss=r), published by BPB Publications. It contains all the supporting project files necessary to work through the journey of this book
 
