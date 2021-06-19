@@ -1,0 +1,13 @@
+from tkinter import*
+mw = Tk()
+mw.geometry("300x300")
+lstbx = Listbox(mw,bg="sky blue",bd = 10,relief="raised", font = ("Times", "15", "bold italic"),fg = "red",height = 15,width = 10, highlightcolor = "pink", highlightthickness = 10,selectbackground = "blue",selectmode="single")
+lstbx.insert(1,"Monday")
+lstbx.insert(2,"Tuesday")
+lstbx.insert(3,"Wednesday")
+lstbx.insert(4,"Thursday")
+lstbx.insert(5,"Friday")
+lstbx.insert(6,"Saturday")
+lstbx.insert(7,"Sunday")
+lstbx.pack()
+mw.mainloop()
